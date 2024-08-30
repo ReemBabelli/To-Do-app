@@ -1,0 +1,226 @@
+{
+    "helloWorld" : "Hello world",
+    "@helloWorld" : {
+    "description" : "The conventional newborn programmer greeting"
+    },
+
+    "email" : "Email",
+    "@email" : {
+    "description" : "for email"
+    },
+
+    "userName" : "User name",
+    "@userName" : {
+    "description" : "for user name"
+    },
+
+    "password" : "Password",
+    "@password" : {
+    "description" : "for password"
+    },
+
+     "emailValidation" : "email must not be empty",
+     "@emailValidation" : {
+     "description" : "email validation"
+     },
+
+     "userValidation" : "user name must not be empty",
+     "@userValidation" : {
+     "description" : "user name validation"
+     },
+
+     "passwordValidation" : "password must not be empty",
+     "@passwordValidation" : {
+     "description" : "password validation"
+     },
+
+      "signIn" : "sign in",
+      "@signIn" : {
+      "description" : "sign in button"
+      },
+
+      "signUp" : "sign up",
+      "@signUp" : {
+      "description" : "sign up button"
+      },
+
+      "logout" : "logout",
+      "@logout" : {
+      "description" : "logout button"
+      },
+
+      "haveAcc" : "don't have an account?",
+      "@haveAcc" : {
+      "description" : " move to sign up screen"
+      },
+
+      "createAcc" : "create account",
+      "@createAcc" : {
+      "description" : " create account button"
+      },
+
+      "myCategories" : "My categories",
+      "@myCategories" : {
+      "description" : " My categories label"
+      },
+
+      "createCategory" : "create your category",
+      "@createCategory" : {
+      "description" : " create category label"
+      },
+
+      "categoryName" : "category name",
+      "@categoryName" : {
+      "description" : " category name"
+      },
+
+      "categoryValidation" : "category name must not be empty",
+      "@categoryValidation" : {
+      "description" : "category validation"
+      },
+
+      "create" : "create",
+      "@create" : {
+      "description" : "create button"
+      },
+
+      "myTasks" : "my tasks",
+      "@myTasks" : {
+      "description" : "my tasks label"
+      },
+
+      "createTask" : "create your task",
+      "@createTask" : {
+      "description" : "create task label"
+      },
+
+      "taskName" : "task name",
+      "@taskName" : {
+      "description" : "task name"
+      },
+
+      "taskValidation" : "task name must not be empty",
+      "@taskValidation" : {
+      "description" : "task validation"
+      },
+
+      "addDescription" : "add description",
+      "@addDescription" : {
+      "description" : "add description"
+      },
+
+      "date" : "date",
+      "@date" : {
+      "description" : "date"
+      },
+
+      "time" : "time",
+      "@time" : {
+      "description" : "time"
+      },
+
+     "home" : "Home",
+     "@home" : {
+     "description" : "Home"
+     },
+
+     "tasksForToday" : "Tasks for today",
+     "@tasksForToday" : {
+     "description" : "tasks for today"
+     },
+
+     "productivity" : "Productivity",
+     "@productivity" : {
+     "description" : "Productivity"
+      },
+
+    "language" : "Language",
+    "@language" : {
+    "description" : "language"
+      },
+
+    "english" : "English",
+    "@english" : {
+    "description" : "english"
+      },
+
+    "arabic" : "Arabic",
+    "@arabic" : {
+    "description" : "arabic"
+      },
+
+    "serverFailureMsg" : "Please try again later.",
+    "@serverFailureMsg" : {
+    "description" : "serverFailureMsg"
+      },
+
+    "emptyCacheMsg" : "No data yet",
+    "@emptyCacheMsg" : {
+    "description" : "emptyCacheMsg"
+      },
+
+    "offlineMsg" : "Please check your internet connection",
+    "@offlineMsg" : {
+    "description" : "offlineMsg"
+      },
+
+    "wrongUserMsg" : "User not found, please check your email and password",
+    "@wrongUserMsg" : {
+    "description" : "wrongUserMsg"
+      },
+
+    "rename" : "Rename",
+    "@rename" : {
+    "description" : "rename"
+      },
+
+    "delete" : "Delete",
+    "@delete" : {
+    "description" : "delete"
+      },
+
+    "areYouSure" : "Are you sure ?",
+    "@areYouSure" : {
+    "description" : "are you sure ?"
+      },
+
+    "no" : "No",
+    "@no" : {
+    "description" : "no"
+      },
+
+    "yes" : "Yes",
+    "@yes" : {
+    "description" : "yes"
+      },
+
+    "renameCategory" : "Rename category",
+    "@renameCategory" : {
+    "description" : "Rename category"
+      },
+
+    "cancel" : "Cancel",
+    "@cancel" : {
+    "description" : "cancel"
+      },
+
+    "productivityForToday" : "Productivity for today",
+    "@productivityForToday" : {
+    "description" : "Productivity for today"
+      },
+
+    "productivityOfThisMonth" : "Productivity of this month",
+    "@productivityOfThisMonth" : {
+    "description" : "Productivity of this month"
+      },
+
+    "edit" : "Edit",
+    "@edit" : {
+    "description" : "edit"
+      },
+
+    "editTask" : "Edit task",
+    "@renameTask" : {
+    "description" : "Edit task"
+      }
+}

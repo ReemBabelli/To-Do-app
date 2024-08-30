@@ -1,0 +1,10 @@
+const String loggedInMsg = 'Logged in';
+const String loggedOutMsg = 'Logged out';
+const String addCatSuccessMsg = 'category added successfully';
+const String  deleteCatSuccessMsg = 'category deleted successfully ';
+const String  updateCatSuccessMsg = 'category updated successfully ';
+const String addTaskSuccessMsg = 'Task added successfully';
+const String  deleteTaskSuccessMsg = 'Task deleted successfully ';
+const String  updateTaskSuccessMsg = 'Task updated successfully ';
+const String  doTaskSuccessMsg = 'Good job! you did it ';
+const String  noTaskSuccessMsg = 'it is ok! you do it later';

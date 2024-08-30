@@ -1,0 +1,91 @@
+{
+   "helloWorld": "أهلاً بالعالم",
+
+   "email": "البريد الإلكتروني",
+
+   "userName": "اسم المستخدم",
+
+   "password" : "كلمة السر",
+
+   "emailValidation" : "يجب ألا يكون البريد الإلكتروني فارغا",
+
+   "userValidation": "يجب ألا يكون اسم المستحدم فارغا",
+
+   "passwordValidation" : "يجب ألا تكون كلمة السر فارغة",
+
+   "signIn" : "تسجيل الدخول",
+
+   "signUp" : "إنشاء حساب",
+
+   "logout" : "تسجيل الخروج",
+
+   "haveAcc" : "ألا تملك حساباً ؟",
+
+   "createAcc" : "إنشاء حساب",
+
+   "myCategories" : "تصنيفاتي",
+
+   "createCategory" : "أنشئ صنفك",
+
+   "categoryName" : "اسم الصنف",
+
+   "categoryValidation" : "يجب ألا يكون اسم الصنف فارغا",
+
+   "create" : "إنشاء",
+
+   "myTasks" : "مهماتي",
+
+   "createTask" : "أنشئ مهمتك",
+
+   "taskName" : "اسم المهمّة",
+
+   "taskValidation" : "يجب ألا يكون اسم المهمّة فارغاً",
+
+   "addDescription" : "أضف شرحاً",
+
+   "date" : "التاريخ",
+
+   "time" : "الوقت",
+
+   "home" : "الصفحة الرئيسية",
+
+   "tasksForToday" : "مهام اليوم",
+
+   "productivity" : "الإنتاجية",
+
+   "language" : "اللغة",
+
+   "english" : "الإنكليزية",
+
+   "arabic" : "العربية",
+
+   "serverFailureMsg" : "رجاءً حاول لاحقاً",
+
+   "emptyCacheMsg" : "لايوجد بيانات بعد",
+
+   "offlineMsg" : "رجاءً تحقق من اتصالك بالإنترنت",
+
+   "wrongUserMsg" : "لم يتم العثور على المستخدم ،رجاءً تحقق من بريدك الإلكتروني وكلمة المرور",
+
+   "rename" : "إعادة تسمية",
+
+   "delete" : "حذف",
+
+   "areYouSure" : "هل أنت متأكّد ؟",
+
+   "no" : "لا",
+
+   "yes" : "نعم",
+
+   "renameCategory" : "إعادة تسمية الصنف",
+
+   "cancel" : "إلغاء",
+
+   "productivityForToday" : "إنتاجية اليوم",
+
+   "productivityOfThisMonth" : "إنتاجية هذا الشهر",
+
+   "edit" : "تعديل",
+
+   "editTask": "تعديل المهمة"
+}
